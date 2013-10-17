@@ -15,6 +15,11 @@
 	margin-left:40px;
 }
 
+.reveal section img {
+  border:0;
+  box-shadow:none;
+}
+
 .private-photos {
 	position:absolute;
 	top:0;
