@@ -1,0 +1,26 @@
+.left {
+	float:left;
+	display:block;
+	position:relative;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.reveal .image-wrap {
+	position:relative;
+	height:500px;
+	width:500px;
+	margin-left:40px;
+}
+
+.private-photos {
+	position:absolute;
+	top:0;
+	left:0;
+}
+
+ul.left {
+	width:300px;
+}
